@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ProseMirror {
+  flex-grow: 1;
+}
+
+.ProseMirror:focus {
+  outline: none;
+}
